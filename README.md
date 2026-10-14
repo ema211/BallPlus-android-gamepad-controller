@@ -21,3 +21,6 @@ The application acts as a bridge between low-level BLE controller packets and An
 * **Language:** Kotlin
 * **UI Framework:** Jetpack Compose & Material 3
 * **Build System:** Gradle (Kotlin DSL)
+
+## Disclaimer
+This project is an independent, open-source tool developed for educational and interoperability purposes. It is not affiliated with, endorsed, sponsored, or supported by any company. Poké Ball Plus and related trademarks belong to their respective owners.
