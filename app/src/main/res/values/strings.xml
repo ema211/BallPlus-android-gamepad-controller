@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Poké Ball Companion</string>
+    <string name="accessibility_description">Allows Poké Ball Plus to simulate screen taps for games and emulators.</string>
+</resources>
