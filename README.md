@@ -1,4 +1,4 @@
-# Poké Ball Companion Controller for Android
+# PKBall+ Companion Controller for Android
 
 An Android companion service and hardware interface designed to connect, parse, and map Bluetooth Low Energy (BLE) inputs from a Poké Ball controller into system-level touch and gamepad actions.
 
@@ -23,4 +23,4 @@ The application acts as a bridge between low-level BLE controller packets and An
 * **Build System:** Gradle (Kotlin DSL)
 
 ## Disclaimer
-This project is an independent, open-source tool developed for educational and interoperability purposes. It is not affiliated with, endorsed, sponsored, or supported by any company. Poké Ball Plus and related trademarks belong to their respective owners.
+This project is an independent, open-source tool developed for educational and interoperability purposes. It is not affiliated with, endorsed, sponsored, or supported by any company. PKBALL+ and related trademarks belong to their respective owners.
